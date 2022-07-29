@@ -1,0 +1,32 @@
+{
+  "name": "HackerRank_autiomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HRAA.js",
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "bcrypt-pbkdf": "^1.0.2",
+    "puppeteer": "^15.5.0",
+    "request": "^2.88.2",
+    "sshpk": "^1.17.0",
+    "through": "^2.3.8",
+    "tr46": "^0.0.3",
+    "tweetnacl": "^0.14.5",
+    "uri-js": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shanks08/HackerRank_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shanks08/HackerRank_Automation/issues"
+  },
+  "homepage": "https://github.com/Shanks08/HackerRank_Automation#readme"
+}
